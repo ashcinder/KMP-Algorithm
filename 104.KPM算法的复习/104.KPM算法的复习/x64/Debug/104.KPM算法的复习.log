@@ -1,0 +1,8 @@
+﻿  FileName.cpp
+D:\代码\习题\代码随想录\104.KPM算法的复习\104.KPM算法的复习\FileName.cpp(46,24): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\代码\习题\代码随想录\104.KPM算法的复习\104.KPM算法的复习\FileName.cpp(73,34): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  104.KPM算法的复习.vcxproj -> D:\代码\习题\代码随想录\104.KPM算法的复习\x64\Debug\104.KPM算法的复习.exe
